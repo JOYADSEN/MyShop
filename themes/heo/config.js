@@ -10,7 +10,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: 'Shop Top-Ranked Unique Products Cheaper Than Amazon!', url: 'https://wowshoplist.com' },
     { title: '60% of Profits Support UNHCR Refugees – Shop Now!', url: 'https://wowshoplist.com/about' }
-    { title: 'Explore Our Latest Product Rankings Now!', url: 'https://wowshoplist.com/rankings' }
+
   ],
 
   // 英雄区左右侧组件颠倒位置
