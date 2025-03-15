@@ -1,4 +1,4 @@
-import { siteConfig } from '@/lib/config'
+/*import { siteConfig } from '@/lib/config'
 
 /**
  * 驱动版权
@@ -17,3 +17,4 @@ export default function PoweredBy(props) {
     </div>
   )
 }
+ */
