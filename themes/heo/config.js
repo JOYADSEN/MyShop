@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Shop Top-Ranked Unique Products Cheaper Than Amazon!', url: 'https://wowshoplist.com' },
-    { title: '60% of Profits Support UNHCR Refugees – Shop Now!', url: 'https://wowshoplist.com/about' }
+    { title: 'Shop Top Products Cheaper!', url: 'https://wowshoplist.com' },
+    { title: '60% Profits to UNHCR – Shop!', url: 'https://wowshoplist.com/about' }
 
   ],
 
