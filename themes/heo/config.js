@@ -8,8 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://wowshoplist.com/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://wowshoplist.com/' }
+    { title: 'Shop Top-Ranked Unique Products Cheaper Than Amazon!', url: 'https://wowshoplist.com' },
+    { title: '60% of Profits Support UNHCR Refugees – Shop Now!', url: 'https://wowshoplist.com/about' }
+    { title: 'Explore Our Latest Product Rankings Now!', url: 'https://wowshoplist.com/rankings' }
   ],
 
   // 英雄区左右侧组件颠倒位置
