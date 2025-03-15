@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://wowshoplist.com'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        WowShopList Team - 60% of Profits Support UNHCR {siteConfig('VERSION')}
       </a>
       .
     </div>
