@@ -19,14 +19,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: 'Explore the Unique',
+  HEO_HERO_TITLE_2: 'Find the Extraordinary',
+  HEO_HERO_TITLE_3: 'Wow Shop List.COM',
   HEO_HERO_TITLE_4: 'Shop the Best, Support UNHCR with 60% Profits',
   HEO_HERO_TITLE_5: 'Everyone’s a Volunteer',
   HEO_HERO_TITLE_LINK: 'https://wowshoplist.com/',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: 'WowShopList',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
