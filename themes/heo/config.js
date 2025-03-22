@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: 'Shop the Best, Support UNHCR with 60% Profits',
-  HEO_HERO_TITLE_5: 'We’re All Volunteers',
+  HEO_HERO_TITLE_5: 'Every Person is a Volunteer',
   HEO_HERO_TITLE_LINK: 'https://wowshoplist.com/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
