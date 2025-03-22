@@ -20,7 +20,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'Shop Quirky',
-  HEO_HERO_TITLE_2: 'Explore the Unique',
+  HEO_HERO_TITLE_2: 'GO',
   HEO_HERO_TITLE_3: 'WOWSHOPLIST.COM',
   HEO_HERO_TITLE_4: 'Shop the Best, Support UNHCR with 60% Profits',
   HEO_HERO_TITLE_5: 'Everyone’s a Volunteer',
