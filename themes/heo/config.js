@@ -80,7 +80,7 @@ const CONFIG = {
       img_1: '/images/heo/US - United States.png', // images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      img_2: '/images/heo/icon_Volunteer.png',  // images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp
       color_2: '#ffffff'
     },
     {
