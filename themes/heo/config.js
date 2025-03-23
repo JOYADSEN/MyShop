@@ -64,7 +64,7 @@ const CONFIG = {
       img_1: '/images/heo/paypal.png',   // /images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: '/images/heo/shopping_cart.png',   //   /images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp
       color_2: '#ffffff'
     },
     {
