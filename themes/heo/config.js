@@ -19,9 +19,9 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Shop Quirky',
+  HEO_HERO_TITLE_1: 'SHOP QUIRKY',
   HEO_HERO_TITLE_2: '',
-  HEO_HERO_TITLE_3: 'WOWSHOPLIST.COM',
+  HEO_HERO_TITLE_3: 'WOW SHOP LIST . COM',
   HEO_HERO_TITLE_4: 'Shop the Best, Support UNHCR with 60% Profits',
   HEO_HERO_TITLE_5: 'Everyone’s a Volunteer',
   HEO_HERO_TITLE_LINK: 'https://wowshoplist.com/',
