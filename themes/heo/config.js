@@ -46,14 +46,14 @@ const CONFIG = {
     '🛍️ Explorer of Hidden Gems',
     '🌍 Shopper with a Heart',
     '💡 Digger of Unique Treasures',
-    '🤗 Connector of Kind Shoppers'
-    '🛒 Changer in the Cart'
-'🎁 Gifter with Purpose'
-'🌿 Eco-Friendly Shopper'
-'📝 List-Maker Extraordinaire'
-'🔍 Seeker of Quality & Kindness'
-'🏠 Dreamer of Beautiful Spaces'
-'💖 Supporter of Global Good'
+    '🤗 Connector of Kind Shoppers',
+    '🛒 Changer in the Cart',
+'🎁 Gifter with Purpose',
+'🌿 Eco-Friendly Shopper',
+'📝 List-Maker Extraordinaire',
+'🔍 Seeker of Quality & Kindness',
+'🏠 Dreamer of Beautiful Spaces',
+'💖 Supporter of Global Good',
   ],
   
   // 个人资料底部按钮
