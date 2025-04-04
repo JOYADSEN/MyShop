@@ -40,15 +40,22 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    'Hello! I am',
+    '🌟 Curator of Wow-Worthy Finds',
+    '🤝 Helper with a Shopping Heart',
+    '🛍️ Explorer of Hidden Gems',
+    '🌍 Shopper with a Heart',
+    '💡 Digger of Unique Treasures',
+    '🤗 Connector of Kind Shoppers'
+    '🛒 Changer in the Cart'
+'🎁 Gifter with Purpose'
+'🌿 Eco-Friendly Shopper'
+'📝 List-Maker Extraordinaire'
+'🔍 Seeker of Quality & Kindness'
+'🏠 Dreamer of Beautiful Spaces'
+'💖 Supporter of Global Good'
   ],
-
+  
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
