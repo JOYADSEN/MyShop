@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'WOWSHOPLIST.COM',
   HEO_HERO_TITLE_4: 'Shop the Best, Support UNHCR with 60% Profits',
   HEO_HERO_TITLE_5: 'Everyone’s a Volunteer',
-  HEO_HERO_TITLE_LINK: 'https://wowshoplist.com/',
+  HEO_HERO_TITLE_LINK: 'https://wowshoplist.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'WowShopList',
 
@@ -48,20 +48,20 @@ const CONFIG = {
     '💡 Digger of Unique Treasures',
     '🤗 Connector of Kind Shoppers',
     '🛒 Changer in the Cart',
-'🎁 Gifter with Purpose',
-'🌿 Eco-Friendly Shopper',
-'📝 List-Maker Extraordinaire',
-'🔍 Seeker of Quality & Kindness',
-'🏠 Dreamer of Beautiful Spaces',
-'💖 Supporter of Global Good',
+    '🎁 Gifter with Purpose',
+    '🌿 Eco-Friendly Shopper',
+    '📝 List-Maker Extraordinaire',
+    '🔍 Seeker of Quality & Kindness',
+    '🏠 Dreamer of Beautiful Spaces',
+    '💖 Supporter of Global Good',
   ],
   
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://wowshoplist.com/',
+  HEO_INFO_CARD_URL2: 'https://wowshoplist.com',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://wowshoplist.com/',
+  HEO_INFO_CARD_URL3: 'https://wowshoplist.com',
   HEO_INFO_CARD_TEXT3: 'learn more',
 
   // 用户技能图标
@@ -128,7 +128,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://wowshoplist.com/',
+  HEO_SOCIAL_CARD_URL: 'https://wowshoplist.com',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: 'Number of articles:',
