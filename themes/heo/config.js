@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: 'Everyone’s a Volunteer',
   HEO_HERO_TITLE_LINK: 'https://wowshoplist.com',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: 'WowShopList',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Unique Rankings', url: '/Unique-Rankings' },
@@ -124,10 +124,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://wowshoplist.com',
+  HEO_SOCIAL_CARD_TITLE_1: 'Contact Us',
+  HEO_SOCIAL_CARD_TITLE_2: 'Social sharing',
+  HEO_SOCIAL_CARD_TITLE_3: 'Scan QR code',
+  HEO_SOCIAL_CARD_URL: 'https://www.notion.so/image/attachment%3A017230a9-bb32-4a19-87cd-ed46f4360481%3AIMG_0381.jpg?table=block&id=1cb8ed13-9b46-80a1-9a00-fd9012f0b35d&t=1cb8ed13-9b46-80a1-9a00-fd9012f0b35d',
 
   // 底部统计面板文案
  HEO_POST_COUNT_TITLE: 'Number of articles:',
