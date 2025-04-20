@@ -28,9 +28,10 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: 'WowShopList',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'Unique Rankings', url: '/Unique-Rankings' },
+    HEO_HERO_CATEGORY_3: { title: 'Fresh Finds', url: '' },
   HEO_HERO_CATEGORY_2: { title: 'Charity Impact', url: '' },
-  HEO_HERO_CATEGORY_3: { title: 'Fresh Finds', url: '' },
+    HEO_HERO_CATEGORY_1: { title: 'Unique Rankings', url: '/Unique-Rankings' },
+
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: 'recommend',
